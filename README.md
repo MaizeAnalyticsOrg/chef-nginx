@@ -2,7 +2,7 @@
 
 ## Description
 
-Installs the [Nginx](http://nginx.org) web server!
+Installs the [Nginx](http://nginx.org) web server!!
 
 
 ## Requirements
